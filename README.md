@@ -1,4 +1,4 @@
-# shopping-analysis
+
 ## Customer Shopping Behavior Analysis
 
 ## PROJECT OVERVIEW
@@ -17,3 +17,11 @@ purchase amount, location, and more.
 - Weekly frequency customers spend the most
 - Spring season has highest purchases
 - PayPal and Credit Card are most used payment methods
+
+## DATA CLEANING
+- Removed null values
+- Checked duplicates
+- Standardized dataset
+
+## Conclusion
+The project successfully identified customer trends and business insights useful for retail decision-making.
