@@ -72,7 +72,7 @@ order by count(sku_id) desc;
 -- ============================================
 -- SECTION 2: DATA CLEANING
 -- ============================================
- 
+
 -- Products with price = 0
 select * from zepto
 where mrp = 0 or discountedSellingPrice = 0;
@@ -92,7 +92,6 @@ select mrp,discountedSellingPrice from zepto;
 -- ============================================
 -- SECTION 3: BUSINESS INSIGHTS & ANALYSIS
 -- ============================================
-
 
 -- Q1 Find the top 10 best-value products based on the discount percentage.
 select distinct name,mrp,discountPercent
