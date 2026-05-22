@@ -41,4 +41,4 @@ Columns: 18 features
 The project successfully identified customer trends and business insights useful for retail decision-making.
 
 # 📷 Dashboard Preview
-Show what the dashboard looks like. Example:https://github.com/shellybaisla/shopping-analysis/blob/main/snapshot%20of%20dashboard.png
+Show what the dashboard looks like. Example:![Dashboard Preview](snapshot%20of%20dashboard.png)
